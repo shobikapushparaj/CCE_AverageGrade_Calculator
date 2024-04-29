@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Developing an Responsive and Interactive application using React.js and CSS which is used to calculate the total mark for school student from FA and SA mark , it also used to calculate the Grade for FA , SA and Total mark and this application provide the performance of the student based on Total Grade  <br>
+[Live link:](https://cce-average-grade-calculator-qeuh.vercel.app/) 
