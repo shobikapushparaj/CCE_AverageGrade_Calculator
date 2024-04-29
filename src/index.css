@@ -117,7 +117,14 @@ span{
   justify-content: center;
   align-items: center;
 }
-
+@media screen and (min-width: 920px){
+  .top{
+    margin-top: 100px;
+  }
+  .bottom{
+    margin-top: 100px;
+  }
+}
 @media screen and (max-width: 920px) {
   .whole_div {
     flex-direction: column;
